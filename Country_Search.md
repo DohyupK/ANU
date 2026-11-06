@@ -226,5 +226,6 @@ int main()
 [countries.csv](https://github.com/user-attachments/files/34483119/countries.csv)
 ---
 - 실행 영상  
+https://github.com/user-attachments/assets/939f4e15-60f6-451a-a4bd-459f5d4a63eb
 
 ---
