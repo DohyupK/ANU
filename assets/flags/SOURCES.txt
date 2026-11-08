@@ -1,0 +1,23 @@
+Country flag images
+===================
+
+Primary source:
+  Flagcdn.com (Flagpedia.net CDN)
+  https://flagcdn.com/
+  https://flagpedia.net/
+  Size used: 80x60 PNG (ISO 3166-1 alpha-2 filenames)
+  License: free for commercial/non-commercial use; based on
+  Wikimedia Commons flag SVGs (generally public domain as national emblems).
+  Flagpedia appreciates a backlink to https://flagpedia.net
+
+Fallback (non-ISO / limited recognition):
+  Wikimedia Commons via Special:FilePath (?width=120 PNG)
+  https://commons.wikimedia.org/
+  - Abkhazia (ab.png)
+  - South Ossetia (os.png)
+  - Transnistria (pmr.png)
+  - Somaliland (somaliland.png)
+  - Northern Cyprus (ncyp.png)
+
+Mapping file: assets/flags/iso_map.csv (Korean name -> ISO/local code)
+Download helper: tools/download_flags.py

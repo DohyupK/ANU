@@ -1,0 +1,488 @@
+country_name,rank,city_name,lat,lon,density,image_path
+네팔,1,Kathmandu,27.710000,85.320000,17440.00,assets/cities/np_1.jpg
+네팔,2,Bharatpur,27.683300,84.433300,923.44,assets/cities/np_2.jpg
+네팔,3,Pokhara,28.208300,83.988900,884.60,assets/cities/np_3.jpg
+대한민국,1,Seoul,37.560000,126.990000,16461.00,assets/cities/kr_1.jpg
+대한민국,2,Busan,35.180000,129.075000,8633.00,assets/cities/kr_2.jpg
+대한민국,3,Incheon,37.483300,126.633300,7340.29,assets/cities/kr_3.jpg
+동티모르,1,Dili,-8.553600,125.578300,555.81,assets/cities/tl_1.jpg
+라오스,1,Vientiane,17.980000,102.630000,2371.22,assets/cities/la_1.jpg
+라오스,2,Xiangkhoang,19.416700,103.500000,667.93,assets/cities/la_2.jpg
+라오스,3,Savannakhet,16.550000,104.750000,310.00,assets/cities/la_3.jpg
+레바논,1,Beirut,33.898300,35.505700,6053.39,assets/cities/lb_1.jpg
+레바논,2,Barr Eliâs,33.775000,35.900000,750.00,assets/cities/lb_2.jpg
+레바논,3,Tripoli,34.436700,35.834400,609.50,assets/cities/lb_3.jpg
+말레이시아,1,Kuala Lumpur,3.147800,101.695300,22277.50,assets/cities/my_1.jpg
+말레이시아,2,Seberang Jaya,5.408300,100.369500,2365.23,assets/cities/my_2.jpg
+말레이시아,3,Klang,3.033300,101.450000,2195.00,assets/cities/my_3.jpg
+몰디브,1,Male,4.175300,73.508900,332.55,assets/cities/mv_1.jpg
+몽골,1,Ulaanbaatar,47.920300,106.917200,3490.72,assets/cities/mn_1.jpg
+몽골,2,Mörön,49.635600,100.155600,336.32,assets/cities/mn_2.jpg
+몽골,3,Erdenet,49.027800,104.044400,267.02,assets/cities/mn_3.jpg
+미얀마,1,Rangoon,16.795000,96.160000,13023.85,assets/cities/mm_1.jpg
+미얀마,2,Mandalay,21.983100,96.084400,3298.63,assets/cities/mm_2.jpg
+미얀마,3,Nay Pyi Taw,19.747500,96.115000,2900.61,assets/cities/mm_3.jpg
+바레인,1,Manama,26.225000,50.577500,1587.50,assets/cities/bh_1.jpg
+방글라데시,1,Dhaka,23.763900,90.388900,33757.00,assets/cities/bd_1.jpg
+방글라데시,2,Chattogram,22.335000,91.832500,17500.00,assets/cities/bd_2.jpg
+방글라데시,3,Gāzipura,23.988900,90.375000,6686.74,assets/cities/bd_3.jpg
+베트남,1,Ho Chi Minh City,10.775600,106.701900,37840.00,assets/cities/vn_1.jpg
+베트남,2,Hanoi,21.000000,105.850000,20616.50,assets/cities/vn_2.jpg
+베트남,3,Haiphong,20.865100,106.683800,5258.75,assets/cities/vn_3.jpg
+부탄,1,Thimphu,27.472200,89.636100,286.38,assets/cities/bt_1.jpg
+북한,1,Pyongyang,39.016700,125.747500,7157.50,assets/cities/kp_1.jpg
+북한,2,Hamhŭng,39.916700,127.533300,1921.38,assets/cities/kp_2.jpg
+북한,3,Nampo,38.733300,125.400000,1758.29,assets/cities/kp_3.jpg
+브루나이,1,반다르스리브가완,4.890300,114.940100,0.00,assets/cities/bn_1.jpg
+사우디아라비아,1,Riyadh,24.633300,46.716700,18092.50,assets/cities/sa_1.jpg
+사우디아라비아,2,Jeddah,21.543300,39.172800,11742.50,assets/cities/sa_2.jpg
+사우디아라비아,3,Mecca,21.422500,39.823300,6069.81,assets/cities/sa_3.jpg
+스리랑카,1,Colombo,6.934400,79.842800,20351.00,assets/cities/lk_1.png
+스리랑카,2,Mount Lavinia,6.873100,79.875800,614.93,assets/cities/lk_2.jpg
+스리랑카,3,Kesbewa,6.795300,79.938600,609.61,assets/cities/lk_3.jpg
+시리아,1,Damascus,33.513100,36.291900,22221.00,assets/cities/sy_1.jpg
+시리아,2,Aleppo,36.200000,37.160000,5009.18,assets/cities/sy_2.jpg
+시리아,3,Homs,34.730800,36.709400,1938.51,assets/cities/sy_3.jpg
+싱가포르,1,Singapore,1.300000,103.800000,14957.50,assets/cities/sg_1.jpg
+아랍에미리트,1,Dubai,25.263100,55.297200,8328.55,assets/cities/ae_1.jpg
+아랍에미리트,2,Abu Dhabi,24.466700,54.366700,3707.50,assets/cities/ae_2.jpg
+아랍에미리트,3,Sharjah,25.357500,55.390800,3119.37,assets/cities/ae_3.jpg
+아르메니아,1,Yerevan,40.181400,44.514400,2689.50,assets/cities/am_1.jpg
+아르메니아,2,Gyumri,40.789400,43.847500,304.94,assets/cities/am_2.jpg
+아제르바이잔,1,Baku,40.395300,49.882200,5751.25,assets/cities/az_1.jpg
+아제르바이잔,2,Sumqayıt,40.589700,49.668600,853.00,assets/cities/az_2.jpg
+아제르바이잔,3,Gəncə,40.682800,46.360600,828.50,assets/cities/az_3.jpg
+아프가니스탄,1,Kabul,34.525300,69.178300,10682.89,assets/cities/af_1.jpg
+아프가니스탄,2,Kandahār,31.620000,65.715800,1535.63,assets/cities/af_2.jpg
+아프가니스탄,3,Herāt,34.341900,62.203100,1390.51,assets/cities/af_3.jpg
+예멘,1,Sanaa,15.348300,44.206400,7392.50,assets/cities/ye_1.jpg
+예멘,2,Ta‘izz,13.578900,44.021900,1538.67,assets/cities/ye_2.jpg
+예멘,3,Al Ḩudaydah,14.802200,42.951100,1371.08,assets/cities/ye_3.jpg
+오만,1,Masqaţ,23.588900,58.408300,4300.00,assets/cities/om_1.jpg
+오만,2,Muscat,23.613900,58.592200,3553.52,assets/cities/om_2.jpg
+오만,3,Bawshar,23.533300,58.383300,958.14,assets/cities/om_3.jpg
+요르단,1,Amman,31.949700,35.932800,10018.82,assets/cities/jo_1.png
+요르단,2,Al Mafraq,32.339900,36.205200,1450.00,assets/cities/jo_2.jpg
+요르단,3,Irbid,32.550000,35.850000,1422.67,assets/cities/jo_3.jpg
+우즈베키스탄,1,Tashkent,41.311100,69.279700,7390.96,assets/cities/uz_1.jpg
+우즈베키스탄,2,Namangan,41.001100,71.668300,1565.30,assets/cities/uz_2.jpg
+우즈베키스탄,3,Andijon,40.783300,72.333300,1369.50,assets/cities/uz_3.jpg
+이라크,1,Baghdad,33.315300,44.366100,15457.50,assets/cities/iq_1.jpg
+이라크,2,Mosul,36.340000,43.130000,4480.00,assets/cities/iq_2.jpg
+이라크,3,Al Başrah,30.515000,47.810000,3316.41,assets/cities/iq_3.jpg
+이란,1,Tehran,35.689200,51.388900,11650.00,assets/cities/ir_1.jpg
+이란,2,Mashhad,36.326400,59.543300,8430.23,assets/cities/ir_2.jpg
+이란,3,Khowrhesht,36.205000,49.687200,6250.00,assets/cities/ir_3.jpg
+이스라엘,1,Tel Aviv-Yafo,32.080000,34.780000,3471.00,assets/cities/il_1.jpg
+이스라엘,2,Jerusalem,31.778900,35.225600,2341.06,assets/cities/il_2.jpg
+이스라엘,3,Haifa,32.819200,34.999200,1500.00,assets/cities/il_3.jpg
+인도,1,Delhi,28.610000,77.230000,80565.00,assets/cities/in_1.jpg
+인도,2,Bangalore,12.978900,77.591700,38465.00,assets/cities/in_2.jpg
+인도,3,Chennai,13.082500,80.275000,30987.50,assets/cities/in_3.jpg
+인도네시아,1,Surabaya,-7.245800,112.737800,17495.00,assets/cities/id_1.jpg
+인도네시아,2,Jakarta,-6.175000,106.827500,15967.00,assets/cities/id_2.jpg
+인도네시아,3,Bekasi,-6.234900,106.992300,12085.00,assets/cities/id_3.jpg
+일본,1,Tokyo,35.689700,139.692200,94330.00,assets/cities/jp_1.jpg
+일본,2,Ōsaka,34.693900,135.502200,37815.00,assets/cities/jp_2.jpg
+일본,3,Nagoya,35.183300,136.900000,22992.50,assets/cities/jp_3.jpg
+조지아,1,Tbilisi,41.722500,44.792500,2795.09,assets/cities/ge_1.jpg
+조지아,2,Batumi,41.645800,41.641700,422.74,assets/cities/ge_2.jpg
+조지아,3,Kutaisi,42.250000,42.700000,369.75,assets/cities/ge_3.jpg
+중국,1,Guangzhou,23.130000,113.260000,67350.00,assets/cities/cn_1.jpg
+중국,2,Shanghai,31.228600,121.474700,60182.50,assets/cities/cn_2.jpg
+중국,3,Beijing,39.906700,116.397500,46305.00,assets/cities/cn_3.jpg
+카자흐스탄,1,Almaty,43.240000,76.915000,4792.06,assets/cities/kz_1.jpg
+카자흐스탄,2,Shymkent,42.316700,69.595800,2960.28,assets/cities/kz_2.jpg
+카자흐스탄,3,Astana,51.147200,71.422200,2695.91,assets/cities/kz_3.jpg
+카타르,1,Doha,25.286700,51.533300,2965.06,assets/cities/qa_1.jpg
+카타르,2,Ar Rayyān,25.250000,51.400000,1514.28,assets/cities/qa_2.jpg
+카타르,3,Laqţah,25.417500,51.507500,496.50,assets/cities/qa_3.jpg
+캄보디아,1,Phnom Penh,11.569400,104.921100,5323.43,assets/cities/kh_1.jpg
+캄보디아,2,Siem Reap,13.362200,103.859700,369.67,assets/cities/kh_2.jpg
+캄보디아,3,Battambang,13.100000,103.200000,325.00,assets/cities/kh_3.jpg
+쿠웨이트,1,Kuwait City,29.369700,47.978300,7500.00,assets/cities/kw_1.jpg
+쿠웨이트,2,Al Jahrā’,29.350000,47.683300,983.58,assets/cities/kw_2.jpg
+쿠웨이트,3,Abū Ḩulayfah,29.132200,48.126100,410.53,assets/cities/kw_3.jpg
+키르기스스탄,1,Bishkek,42.874700,74.612200,2802.07,assets/cities/kg_1.jpg
+키르기스스탄,2,Osh,40.530000,72.800000,882.70,assets/cities/kg_2.jpg
+태국,1,Bangkok,13.752500,100.494200,45017.50,assets/cities/th_1.jpg
+태국,2,Chiang Mai,18.795300,98.998600,2995.00,assets/cities/th_2.jpg
+태국,3,Nakhon Ratchasima,14.975000,102.100000,1165.24,assets/cities/th_3.jpg
+타지키스탄,1,Dushanbe,38.536700,68.780000,2158.50,assets/cities/tj_1.jpg
+타지키스탄,2,Khŭjand,40.283300,69.633300,1925.00,assets/cities/tj_2.jpg
+타지키스탄,3,Konibodom,40.283300,70.416700,547.50,assets/cities/tj_3.jpg
+투르크메니스탄,1,Ashgabat,37.937500,58.380000,2575.16,assets/cities/tm_1.jpg
+투르크메니스탄,2,Türkmenabat,39.083300,63.566700,640.00,assets/cities/tm_2.jpg
+투르크메니스탄,3,Daşoguz,41.833300,59.966700,567.96,assets/cities/tm_3.jpg
+튀르키예,1,Istanbul,41.013600,28.955000,40197.50,assets/cities/tr_1.jpg
+튀르키예,2,Ankara,39.930000,32.850000,13759.96,assets/cities/tr_2.jpg
+튀르키예,3,İzmir,38.420000,27.140000,10801.30,assets/cities/tr_3.jpg
+파키스탄,1,Karachi,24.860000,67.010000,39345.00,assets/cities/pk_1.jpg
+파키스탄,2,Lahore,31.549700,74.343600,30765.00,assets/cities/pk_2.jpg
+파키스탄,3,Kotla Qasim Khan,32.583300,73.750000,8048.44,assets/cities/pk_3.jpg
+팔레스타인,1,알 쿠두스,31.768300,35.213700,0.00,assets/cities/ps_1.jpg
+필리핀,1,Manila,14.595800,120.977200,44936.00,assets/cities/ph_1.jpg
+필리핀,2,Quezon City,14.650000,121.047500,18633.00,assets/cities/ph_2.jpg
+필리핀,3,Zamboanga City,6.904200,122.076100,5250.00,assets/cities/ph_3.jpg
+가나,1,Kumasi,6.700000,-1.625000,8725.08,assets/cities/gh_1.jpg
+가나,2,Boankra,6.694400,-1.402800,8370.00,assets/cities/gh_2.jpg
+가나,3,Accra,5.550000,-0.200000,5970.00,assets/cities/gh_3.jpg
+가봉,1,Libreville,0.390300,9.454200,1992.51,assets/cities/ga_1.jpg
+가봉,2,Port-Gentil,-0.716700,8.783300,341.15,assets/cities/ga_2.jpg
+가봉,3,Franceville,-1.633300,13.583300,276.42,assets/cities/ga_3.jpg
+감비아,1,Banjul,13.453100,-16.577500,1033.49,assets/cities/gm_1.jpg
+감비아,2,Serekunda,13.433300,-16.666700,850.00,assets/cities/gm_2.jpg
+기니,1,Conakry,9.509200,-13.712200,4169.66,assets/cities/gn_1.jpg
+기니,2,Mamou,10.383300,-12.083300,940.67,assets/cities/gn_2.jpg
+기니,3,Guéckédou,8.566700,-10.133300,554.29,assets/cities/gn_3.jpg
+기니비사우,1,Bissau,11.850000,-15.566700,1230.01,assets/cities/gw_1.jpg
+나미비아,1,Windhoek,-22.570000,17.083600,1077.50,assets/cities/na_1.jpg
+남수단,1,Juba,4.850000,31.600000,1148.36,assets/cities/ss_1.jpg
+남수단,2,Bor,6.212500,31.560800,788.38,assets/cities/ss_2.jpg
+남수단,3,Kajo Kaji,3.849200,31.657800,490.00,assets/cities/ss_3.jpg
+남아프리카공화국,1,Johannesburg,-26.204400,28.045600,21250.00,assets/cities/za_1.jpg
+남아프리카공화국,2,Cape Town,-33.925300,18.423900,11925.78,assets/cities/za_2.jpg
+남아프리카공화국,3,Soweto,-26.267800,27.858500,3179.07,assets/cities/za_3.jpg
+나이지리아,1,Lagos,6.455000,3.384100,13138.00,assets/cities/ng_1.jpg
+나이지리아,2,Abuja,9.066700,7.483300,9425.00,assets/cities/ng_2.jpg
+나이지리아,3,Ibadan,7.396400,3.916700,8880.00,assets/cities/ng_3.jpg
+니제르,1,Niamey,13.515000,2.117500,2567.12,assets/cities/ne_1.jpg
+니제르,2,Maradi,13.483300,7.100000,668.12,assets/cities/ne_2.jpg
+니제르,3,Zinder,13.805300,8.988300,589.01,assets/cities/ne_3.jpg
+라이베리아,1,Monrovia,6.313300,-10.801400,2554.41,assets/cities/lr_1.jpg
+레소토,1,Maseru,-29.310000,27.480000,858.85,assets/cities/ls_1.jpg
+르완다,1,Kigali,-1.943900,30.059400,3796.58,assets/cities/rw_1.jpg
+르완다,2,Muhanga,-2.084500,29.752700,797.85,assets/cities/rw_2.jpg
+리비아,1,Tripoli,32.887200,13.191400,2957.50,assets/cities/ly_1.jpg
+리비아,2,Benghazi,32.116700,20.066700,1578.89,assets/cities/ly_2.jpg
+리비아,3,Ajdābiyā,30.755600,20.225300,1040.00,assets/cities/ly_3.jpg
+마다가스카르,1,Antananarivo,-18.910000,47.525000,5750.00,assets/cities/mg_1.jpg
+마다가스카르,2,Androtsy,-24.100000,46.300000,2023.28,assets/cities/mg_2.jpg
+마다가스카르,3,Betsiboka,-16.950000,46.830000,986.40,assets/cities/mg_3.jpg
+말라위,1,Blantyre,-15.786100,35.005800,4739.93,assets/cities/mw_1.jpg
+말라위,2,Lilongwe,-13.983300,33.783300,2473.30,assets/cities/mw_2.jpg
+말라위,3,Mzuzu,-11.458100,34.015100,375.25,assets/cities/mw_3.jpg
+말리,1,Bamako,12.639200,-8.002800,10568.92,assets/cities/ml_1.jpg
+말리,2,Balandougou,13.355800,-9.551700,3992.20,assets/cities/ml_2.jpg
+말리,3,Zégoua,10.487500,-5.653600,575.90,assets/cities/ml_3.jpg
+모로코,1,Casablanca,33.533300,-7.583300,8747.50,assets/cities/ma_1.jpg
+모로코,2,Fès,34.043300,-5.003300,2780.18,assets/cities/ma_2.jpg
+모로코,3,Marrakech,31.630000,-8.008900,2417.47,assets/cities/ma_3.jpg
+모리셔스,1,Port Louis,-20.164400,57.504200,372.99,assets/cities/mu_1.jpg
+모리타니,1,Nouakchott,18.085800,-15.978500,2692.92,assets/cities/mr_1.jpg
+모리타니,2,Arafat,18.046400,-15.971900,439.92,assets/cities/mr_2.jpg
+모리타니,3,Dar Naim,18.033300,-15.966700,360.11,assets/cities/mr_3.jpg
+모잠비크,1,Maputo,-25.966700,32.583300,2833.00,assets/cities/mz_1.jpg
+모잠비크,2,Matola,-25.966700,32.466700,2580.49,assets/cities/mz_2.jpg
+모잠비크,3,Nampula,-15.116700,39.266700,1857.50,assets/cities/mz_3.jpg
+베냉,1,Cotonou,6.366700,2.433300,1697.53,assets/cities/bj_1.jpg
+베냉,2,Abomey-Calavi,6.448600,2.355600,1639.91,assets/cities/bj_2.jpg
+베냉,3,Godomè,6.366700,2.350000,633.15,assets/cities/bj_3.jpg
+보츠와나,1,Gaborone,-24.658100,25.912200,589.71,assets/cities/bw_1.jpg
+보츠와나,2,Francistown,-21.173600,27.512500,258.54,assets/cities/bw_2.jpg
+부룬디,1,Bujumbura,-3.383300,29.366700,2858.01,assets/cities/bi_1.jpg
+부룬디,2,Gitega,-3.428300,29.925000,338.67,assets/cities/bi_2.jpg
+부르키나파소,1,Ouagadougou,12.368600,-1.527500,6133.74,assets/cities/bf_1.jpg
+부르키나파소,2,Bobo-Dioulasso,11.183300,-4.283300,2259.72,assets/cities/bf_2.jpg
+부르키나파소,3,Koudougou,12.250000,-2.366700,400.52,assets/cities/bf_3.jpg
+상투메프린시페,1,상투메,0.337600,6.729900,0.00,assets/cities/st_1.jpg
+세네갈,1,Pikine,14.750000,-17.400000,18061.00,assets/cities/sn_1.jpg
+세네갈,2,Dakar,14.692800,-17.446700,3596.81,assets/cities/sn_2.jpg
+세네갈,3,Touba,14.866700,-15.883300,1322.94,assets/cities/sn_3.jpg
+세이셸,1,빅토리아,-4.619100,55.451300,0.00,assets/cities/sc_1.jpg
+소말리아,1,Mogadishu,2.039200,45.341900,6526.21,assets/cities/so_1.jpg
+소말리아,2,Kismaayo,-0.358100,42.545300,3645.00,assets/cities/so_2.jpg
+소말리아,3,Hargeysa,9.563100,44.067500,3000.00,assets/cities/so_3.jpg
+수단,1,Khartoum,15.600000,32.500000,19672.50,assets/cities/sd_1.jpg
+수단,2,Omdurman,15.650000,32.483300,7013.49,assets/cities/sd_2.jpg
+수단,3,Al Mijlad,11.033900,27.740000,2462.50,assets/cities/sd_3.jpg
+시에라리온,1,Freetown,8.484400,-13.234400,16539.00,assets/cities/sl_1.jpg
+시에라리온,2,Bo,7.956400,-11.740000,584.21,assets/cities/sl_2.jpg
+시에라리온,3,Kenema,7.875800,-11.190800,471.16,assets/cities/sl_3.jpg
+알제리,1,Algiers,36.753900,3.058900,8539.53,assets/cities/dz_1.jpg
+알제리,2,Constantine,36.350000,6.600000,1162.85,assets/cities/dz_2.jpg
+알제리,3,Batna,35.550000,6.166700,726.61,assets/cities/dz_3.jpg
+앙골라,1,Luanda,-8.838300,13.234400,22627.50,assets/cities/ao_1.jpg
+앙골라,2,Cacuaco,-8.805300,13.244400,3198.72,assets/cities/ao_2.jpg
+앙골라,3,Cazenga,-8.821400,13.291100,2614.30,assets/cities/ao_3.jpg
+에리트레아,1,Asmara,15.322800,38.925000,21400.00,assets/cities/er_1.png
+에리트레아,2,Keren,15.777800,38.458100,366.25,assets/cities/er_2.jpg
+에리트레아,3,Gwelej,14.750000,36.716700,250.00,assets/cities/er_3.jpg
+에스와티니,1,Manzini,-26.483300,31.366700,276.27,assets/cities/sz_1.jpg
+에티오피아,1,Addis Ababa,9.030000,38.740000,7602.51,assets/cities/et_1.jpg
+에티오피아,2,Ērer Sātā,9.566700,41.383300,1622.50,assets/cities/et_2.jpg
+에티오피아,3,Shashemenē,7.200000,38.600000,1020.92,assets/cities/et_3.jpg
+우간다,1,Kampala,0.313600,32.581100,4201.50,assets/cities/ug_1.jpg
+우간다,2,Mbale,1.080600,34.175000,1465.75,assets/cities/ug_2.jpg
+우간다,3,Nansana,0.363900,32.528600,1332.00,assets/cities/ug_3.jpg
+이집트,1,Giza,29.987000,31.211800,45050.00,assets/cities/eg_1.jpg
+이집트,2,Cairo,30.044400,31.235800,15742.00,assets/cities/eg_2.jpg
+이집트,3,Alexandria,31.197500,29.892500,12175.00,assets/cities/eg_3.jpg
+잠비아,1,Lusaka,-15.416700,28.283300,6168.91,assets/cities/zm_1.jpg
+잠비아,2,Ndola,-12.968900,28.632500,1320.83,assets/cities/zm_2.jpg
+잠비아,3,Kitwe,-12.816700,28.200000,1260.48,assets/cities/zm_3.jpg
+적도기니,1,Malabo,3.745600,8.774400,742.50,assets/cities/gq_1.jpg
+적도기니,2,Bata,1.865000,9.770000,626.92,assets/cities/gq_2.jpg
+중앙아프리카공화국,1,Bangui,4.373300,18.562800,13218.00,assets/cities/cf_1.jpg
+중앙아프리카공화국,2,Bimo,4.313700,18.306500,669.65,assets/cities/cf_2.jpg
+중앙아프리카공화국,3,Mambéré,5.500000,15.500000,584.16,assets/cities/cf_3.jpg
+지부티,1,Djibouti,11.588300,43.145000,1509.75,assets/cities/dj_1.jpg
+짐바브웨,1,Harare,-17.829200,31.052200,5375.00,assets/cities/zw_1.png
+짐바브웨,2,Masvingo,-20.074400,30.832800,4096.32,assets/cities/zw_2.jpg
+짐바브웨,3,Bulawayo,-20.170000,28.580000,1664.85,assets/cities/zw_3.jpg
+차드,1,N’Djamena,12.110000,15.050000,2730.16,assets/cities/td_1.jpg
+차드,2,Moundou,8.566700,16.083300,356.15,assets/cities/td_2.jpg
+차드,3,Sarh,9.150000,18.383300,270.15,assets/cities/td_3.jpg
+카메룬,1,Douala,4.050000,9.700000,14421.00,assets/cities/cm_1.jpg
+카메룬,2,Yaoundé,3.866700,11.516700,6101.15,assets/cities/cm_2.jpg
+카메룬,3,Bamenda,5.961400,10.151700,5000.00,assets/cities/cm_3.jpg
+카보베르데,1,프라이아,14.931500,-23.512500,0.00,assets/cities/cv_1.jpg
+케냐,1,Nairobi,-1.286400,36.817200,13862.50,assets/cities/ke_1.jpg
+케냐,2,Mombasa,-4.050000,39.666700,3020.83,assets/cities/ke_2.jpg
+케냐,3,Nakuru,-0.300000,36.066700,1426.68,assets/cities/ke_3.jpg
+코모로,1,모로니,-11.702200,43.255100,0.00,assets/cities/km_1.jpg
+코트디부아르,1,Abidjan,5.316700,-4.033300,12450.00,assets/cities/ci_1.jpg
+코트디부아르,2,Yopougon,5.316700,-4.066700,3927.66,assets/cities/ci_2.jpg
+코트디부아르,3,Cocody,5.350000,-3.966700,1731.46,assets/cities/ci_3.jpg
+콩고공화국,1,Brazzaville,-4.269400,15.271100,4333.16,assets/cities/cg_1.jpg
+콩고공화국,2,Pointe-Noire,-4.797500,11.850300,1969.50,assets/cities/cg_2.jpg
+콩고공화국,3,Tchibota,-4.179400,11.373100,657.33,assets/cities/cg_3.jpg
+콩고민주공화국,1,Kinshasa,-4.321900,15.311900,32090.00,assets/cities/cd_1.jpg
+콩고민주공화국,2,Mbuji-Mayi,-6.150000,23.600000,7230.00,assets/cities/cd_2.jpg
+콩고민주공화국,3,Kananga,-5.897000,22.448800,4929.26,assets/cities/cd_3.jpg
+탄자니아,1,Dar es Salaam,-6.816100,39.280300,19905.00,assets/cities/tz_1.jpg
+탄자니아,2,Mwanza,-2.516700,32.900000,2761.30,assets/cities/tz_2.jpg
+탄자니아,3,Ubungo,-6.788900,39.205600,2717.28,assets/cities/tz_3.jpg
+토고,1,Sokodé,8.983300,1.133300,282.50,assets/cities/tg_1.jpg
+튀니지,1,Tunis,36.806400,10.181700,1506.40,assets/cities/tn_1.jpg
+튀니지,2,Sidi Bouzid,35.038100,9.485800,1074.78,assets/cities/tn_2.jpg
+튀니지,3,Sfax,34.740000,10.760000,662.83,assets/cities/tn_3.jpg
+그리스,1,Athens,37.984200,23.728100,7649.41,assets/cities/gr_1.jpg
+그리스,2,Thessaloníki,40.640300,22.934700,2006.43,assets/cities/gr_2.jpg
+그리스,3,Piraeus,37.943000,23.646900,1120.13,assets/cities/gr_3.jpg
+네덜란드,1,Tilburg,51.550000,5.083300,4861.47,assets/cities/nl_1.jpg
+네덜란드,2,Amsterdam,52.372800,4.893600,3648.51,assets/cities/nl_2.jpg
+네덜란드,3,Rotterdam,51.920000,4.480000,1660.78,assets/cities/nl_3.jpg
+노르웨이,1,Oslo,59.913300,10.738900,2660.59,assets/cities/no_1.jpg
+노르웨이,2,Bergen,60.389400,5.330000,727.97,assets/cities/no_2.jpg
+노르웨이,3,Stavanger,58.970000,5.731400,593.42,assets/cities/no_3.jpg
+덴마크,1,Copenhagen,55.676100,12.568300,3415.75,assets/cities/dk_1.jpg
+덴마크,2,Aarhus,56.157200,10.210700,726.50,assets/cities/dk_2.jpg
+덴마크,3,Odense,55.395800,10.388600,455.97,assets/cities/dk_3.jpg
+독일,1,Berlin,52.520000,13.405000,12225.91,assets/cities/de_1.jpg
+독일,2,Stuttgart,48.777500,9.180000,6969.31,assets/cities/de_2.jpg
+독일,3,Munich,48.137500,11.575000,6515.05,assets/cities/de_3.jpg
+라트비아,1,Riga,56.948900,24.106400,2301.61,assets/cities/lv_1.jpg
+러시아,1,Moscow,55.755800,37.617200,43330.00,assets/cities/ru_1.jpg
+러시아,2,Saint Petersburg,59.937500,30.308600,13460.85,assets/cities/ru_2.jpg
+러시아,3,Novosibirsk,55.050000,82.950000,4064.08,assets/cities/ru_3.jpg
+루마니아,1,Bucharest,44.432500,26.103900,6031.32,assets/cities/ro_1.jpg
+루마니아,2,Cluj-Napoca,46.766700,23.583300,716.50,assets/cities/ro_2.jpg
+루마니아,3,Iaşi,47.162200,27.588900,679.23,assets/cities/ro_3.jpg
+룩셈부르크,1,Luxembourg,49.611700,6.131900,331.95,assets/cities/lu_1.jpg
+리투아니아,1,Vilnius,54.687200,25.280000,1792.14,assets/cities/lt_1.jpg
+리투아니아,2,Kaunas,54.897200,23.886100,983.49,assets/cities/lt_2.jpg
+리투아니아,3,Klaipėda,55.712500,21.135000,396.05,assets/cities/lt_3.jpg
+리헤텐슈타인,1,파두츠,47.141000,9.521500,0.00,assets/cities/li_1.jpg
+모나코,1,모나코,43.738400,7.424600,0.00,assets/cities/mc_1.jpg
+몬테네그로,1,Podgorica,42.441400,19.262800,432.56,assets/cities/me_1.jpg
+몰도바,1,Chisinau,47.022800,28.835300,1755.75,assets/cities/md_1.jpg
+몰도바,2,Tiraspol,46.840300,29.643300,334.52,assets/cities/md_2.jpg
+몰타,1,Valletta,35.898300,14.512500,1200.34,assets/cities/mt_1.jpg
+바티칸,1,바티칸,41.902900,12.453400,0.00,assets/cities/va_1.jpg
+벨기에,1,Brussels,50.846700,4.352500,3087.98,assets/cities/be_1.jpg
+벨기에,2,Antwerp,51.217800,4.400300,1340.20,assets/cities/be_2.jpg
+벨기에,3,Gent,51.053600,3.725300,662.72,assets/cities/be_3.jpg
+벨라루스,1,Minsk,53.900000,27.566700,4988.68,assets/cities/by_1.jpg
+벨라루스,2,Homyel’,52.445300,30.984200,1254.51,assets/cities/by_2.jpg
+벨라루스,3,Vitsyebsk,55.191700,30.205600,897.87,assets/cities/by_3.jpg
+보스니아헤르체고비나,1,Sarajevo,43.856400,18.413100,1049.89,assets/cities/ba_1.jpg
+보스니아헤르체고비나,2,Banja Luka,44.772500,17.192500,462.61,assets/cities/ba_2.jpg
+보스니아헤르체고비나,3,Bijeljina,44.756900,19.216100,286.66,assets/cities/ba_3.jpg
+북마케도니아,1,Skopje,41.996100,21.431700,1316.26,assets/cities/mk_1.jpg
+불가리아,1,Sofia,42.700000,23.330000,3869.45,assets/cities/bg_1.jpg
+불가리아,2,Varna,43.216700,27.916700,871.49,assets/cities/bg_2.jpg
+불가리아,3,Plovdiv,42.150000,24.750000,867.23,assets/cities/bg_3.jpg
+산마리노,1,산마리노,43.942400,12.457800,0.00,assets/cities/sm_1.jpg
+세르비아,1,Belgrade,44.820000,20.460000,2994.28,assets/cities/rs_1.jpg
+세르비아,2,Novi Sad,45.254200,19.842500,950.00,assets/cities/rs_2.jpg
+세르비아,3,Niš,43.320800,21.895800,457.91,assets/cities/rs_3.jpg
+슬로바키아,1,Bratislava,48.143900,17.109700,1188.76,assets/cities/sk_1.jpg
+슬로바키아,2,Košice,48.716700,21.250000,572.60,assets/cities/sk_2.jpg
+슬로바키아,3,Petržalka,48.133300,17.116700,285.00,assets/cities/sk_3.jpg
+슬로베니아,1,Ljubljana,46.051400,14.506100,710.73,assets/cities/si_1.jpg
+스웨덴,1,Stockholm,59.329400,18.068600,5302.50,assets/cities/se_1.jpg
+스웨덴,2,Gothenburg,57.707500,11.967500,1519.70,assets/cities/se_2.jpg
+스웨덴,3,Malmö,55.605800,13.035800,900.62,assets/cities/se_3.jpg
+스위스,1,Geneva,46.201700,6.146900,12677.00,assets/cities/ch_1.jpg
+스위스,2,Zürich,47.374400,8.541100,1117.70,assets/cities/ch_2.jpg
+스위스,3,Basel,47.554700,7.590600,433.88,assets/cities/ch_3.jpg
+스페인,1,Barcelona,41.382800,2.176900,16149.00,assets/cities/es_1.jpg
+스페인,2,Madrid,40.416900,-3.703300,15527.50,assets/cities/es_2.jpg
+스페인,3,Valencia,39.470000,-0.376400,3987.50,assets/cities/es_3.jpg
+아이슬란드,1,Reykjavík,64.146700,-21.940000,349.69,assets/cities/is_1.jpg
+아일랜드,1,Dublin,53.350000,-6.260300,3158.05,assets/cities/ie_1.jpg
+아일랜드,2,Finglas,53.459700,-6.218100,826.26,assets/cities/ie_2.jpg
+아일랜드,3,Cork,51.897200,-8.470000,555.83,assets/cities/ie_3.jpg
+안도라,1,안도라라베야,42.506300,1.521800,0.00,assets/cities/ad_1.jpg
+알바니아,1,Tirana,41.328900,19.817800,1046.24,assets/cities/al_1.jpg
+알바니아,2,Durrës,41.313300,19.445800,437.77,assets/cities/al_2.jpg
+알바니아,3,Vlorë,40.466700,19.483300,327.07,assets/cities/al_3.jpg
+영국,1,London,51.507200,-0.127500,28155.00,assets/cities/gb_1.jpg
+영국,2,Birmingham,52.480000,-1.902500,7299.00,assets/cities/gb_2.jpg
+영국,3,Portsmouth,50.805800,-1.087200,2139.20,assets/cities/gb_3.jpg
+에스토니아,1,Tallinn,59.437200,24.745300,1536.40,assets/cities/ee_1.jpg
+오스트리아,1,Vienna,48.208300,16.372500,5558.09,assets/cities/at_1.jpg
+오스트리아,2,Graz,47.070800,15.438600,731.58,assets/cities/at_2.jpg
+오스트리아,3,Linz,48.305800,14.286400,525.41,assets/cities/at_3.jpg
+우크라이나,1,Kyiv,50.450000,30.523300,7380.75,assets/cities/ua_1.jpg
+우크라이나,2,Kharkiv,49.992500,36.231100,3552.81,assets/cities/ua_2.jpg
+우크라이나,3,Odesa,46.477500,30.732600,2526.34,assets/cities/ua_3.jpg
+이탈리아,1,Rome,41.893300,12.482800,6870.27,assets/cities/it_1.jpg
+이탈리아,2,Milan,45.466900,9.190000,3385.49,assets/cities/it_2.jpg
+이탈리아,3,Naples,40.833300,14.250000,2283.66,assets/cities/it_3.jpg
+체코,1,Prague,50.087500,14.421400,3393.32,assets/cities/cz_1.jpg
+체코,2,Brno,49.192500,16.608300,990.25,assets/cities/cz_2.png
+체코,3,Ostrava,49.835600,18.292500,708.76,assets/cities/cz_3.jpg
+크로아티아,1,Zagreb,45.813100,15.977500,1917.83,assets/cities/hr_1.jpg
+크로아티아,2,Split,43.510000,16.440000,401.44,assets/cities/hr_2.jpg
+크로아티아,3,Rijeka,45.327200,14.441100,269.91,assets/cities/hr_3.jpg
+키프로스,1,Nicosia,35.172500,33.365000,825.00,assets/cities/cy_1.jpg
+키프로스,2,Limassol,34.674700,33.044200,587.64,assets/cities/cy_2.jpg
+포르투갈,1,Porto,41.162100,-8.622000,3195.53,assets/cities/pt_1.jpg
+포르투갈,2,Lisbon,38.725300,-9.150000,1371.76,assets/cities/pt_2.jpg
+포르투갈,3,Aves,41.440000,-8.300000,1063.53,assets/cities/pt_3.jpg
+폴란드,1,Warsaw,52.230000,21.011100,4650.70,assets/cities/pl_1.jpg
+폴란드,2,Kraków,50.061400,19.937200,2010.59,assets/cities/pl_2.jpg
+폴란드,3,Wrocław,51.110000,17.032500,1682.32,assets/cities/pl_3.jpg
+프랑스,1,Paris,48.856700,2.352200,20755.00,assets/cities/fr_1.jpg
+프랑스,2,Bordeaux,44.840000,-0.580000,2487.30,assets/cities/fr_2.jpg
+프랑스,3,Marseille,43.296400,5.370000,2182.69,assets/cities/fr_3.jpg
+핀란드,1,Helsinki,60.170800,24.937500,3400.19,assets/cities/fi_1.jpg
+핀란드,2,Tampere,61.498100,23.760000,835.28,assets/cities/fi_2.jpg
+핀란드,3,Espoo,60.205600,24.655600,742.83,assets/cities/fi_3.jpg
+헝가리,1,Budapest,47.492500,19.051400,7494.90,assets/cities/hu_1.jpg
+헝가리,2,Debrecen,47.530000,21.639200,821.61,assets/cities/hu_2.jpg
+헝가리,3,Székesfehérvár,47.195600,18.408900,681.18,assets/cities/hu_3.jpg
+그레나다,1,세인트조지스,12.056100,-61.748600,0.00,assets/cities/gd_1.jpg
+과테말라,1,Guatemala City,14.613300,-90.535300,7535.00,assets/cities/gt_1.jpg
+과테말라,2,Mixco,14.633100,-90.606400,1293.76,assets/cities/gt_2.jpg
+과테말라,3,Villa Nueva,14.526900,-90.587500,1209.74,assets/cities/gt_3.jpg
+니카라과,1,Managua,12.136400,-86.251400,2628.09,assets/cities/ni_1.jpg
+니카라과,2,León,12.433300,-86.886700,440.43,assets/cities/ni_2.jpg
+니카라과,3,Tipitapa,12.200000,-86.100000,368.45,assets/cities/ni_3.jpg
+도미니카공화국,1,Santiago,19.457200,-70.688900,3358.56,assets/cities/do_1.jpg
+도미니카공화국,2,Santo Domingo,18.466700,-69.950000,2821.70,assets/cities/do_2.jpg
+도미니카공화국,3,Santo Domingo Este,18.485500,-69.873400,2372.14,assets/cities/do_3.jpg
+도미니카연방,1,로조,15.301000,-61.388100,0.00,assets/cities/dm_1.jpg
+멕시코,1,Mexico City,19.433300,-99.133300,54510.00,assets/cities/mx_1.jpg
+멕시코,2,Guadalajara,20.676700,-103.347500,13812.50,assets/cities/mx_2.jpg
+멕시코,3,Monterrey,25.666700,-100.300000,13352.93,assets/cities/mx_3.jpg
+미국,1,New York,40.694300,-73.924900,47271.52,assets/cities/us_1.jpg
+미국,2,Los Angeles,34.114100,-118.406800,29805.97,assets/cities/us_2.jpg
+미국,3,Chicago,41.837500,-87.686600,21244.40,assets/cities/us_3.jpg
+바베이도스,1,Bridgetown,13.097500,-59.616700,275.00,assets/cities/bb_1.jpg
+바하마,1,Nassau,25.078100,-77.338600,686.00,assets/cities/bs_1.jpg
+벨리즈,1,벨모판,17.253800,-88.764000,0.00,assets/cities/bz_1.jpg
+세인트루시아,1,캐스트리스,14.010100,-60.987500,0.00,assets/cities/lc_1.jpg
+세인트빈센트,1,킹스타운,13.155300,-61.227400,0.00,assets/cities/vc_1.jpg
+세인트키츠네비스,1,바스테르,17.295500,-62.725000,0.00,assets/cities/kn_1.jpg
+아이티,1,Croix-des-Bouquets,18.576100,-72.226900,42322.00,assets/cities/ht_1.jpg
+아이티,2,Port-au-Prince,18.533300,-72.333300,39084.00,assets/cities/ht_2.jpg
+아이티,3,Carrefour,18.534400,-72.409400,1278.36,assets/cities/ht_3.jpg
+앤티가바부다,1,세인트 존스,17.121000,-61.843300,0.00,assets/cities/ag_1.jpg
+엘살바도르,1,San Salvador,13.698900,-89.191400,790.23,assets/cities/sv_1.jpg
+엘살바도르,2,Santa Ana,13.995000,-89.556100,700.00,assets/cities/sv_2.jpg
+엘살바도르,3,Soyapango,13.733300,-89.150000,603.51,assets/cities/sv_3.jpg
+온두라스,1,Tegucigalpa,14.105800,-87.204700,4206.81,assets/cities/hn_1.jpg
+온두라스,2,Comayagüela,14.098000,-87.210000,3125.00,assets/cities/hn_2.jpg
+온두라스,3,San Pedro Sula,15.500000,-88.033300,1984.59,assets/cities/hn_3.jpg
+자메이카,1,Kingston,17.971400,-76.793100,1450.00,assets/cities/jm_1.jpg
+자메이카,2,Portmore,17.950000,-76.879900,391.17,assets/cities/jm_2.jpg
+자메이카,3,Spanish Town,17.995900,-76.955100,327.64,assets/cities/jm_3.jpg
+캐나다,1,Toronto,43.741700,-79.373300,14119.14,assets/cities/ca_1.jpg
+캐나다,2,Montréal,45.508900,-73.561700,9188.05,assets/cities/ca_2.jpg
+캐나다,3,Vancouver,49.250000,-123.100000,6065.40,assets/cities/ca_3.jpg
+코스타리카,1,San José,9.932500,-84.080000,3857.50,assets/cities/cr_1.jpg
+코스타리카,2,San Marcos,10.620400,-84.512000,409.36,assets/cities/cr_2.jpg
+쿠바,1,Havana,23.136700,-82.358900,5223.83,assets/cities/cu_1.jpg
+쿠바,2,Santiago de Cuba,20.021700,-75.829400,1128.82,assets/cities/cu_2.jpg
+쿠바,3,Holguín,20.886900,-76.259200,875.48,assets/cities/cu_3.jpg
+트리니다드토바고,1,Chaguanas,10.516700,-61.400000,253.24,assets/cities/tt_1.jpg
+파나마,1,Panama City,8.983300,-79.516700,3750.47,assets/cities/pa_1.jpg
+파나마,2,San Miguelito,9.033000,-79.500000,787.55,assets/cities/pa_2.jpg
+가이아나,1,Georgetown,6.805800,-58.150800,501.25,assets/cities/gy_1.jpg
+베네수엘라,1,Barcelona,10.140300,-64.683300,16149.00,assets/cities/ve_1.jpg
+베네수엘라,2,Caracas,10.480600,-66.903600,5614.36,assets/cities/ve_2.jpg
+베네수엘라,3,Maracaibo,10.633300,-71.633300,3878.85,assets/cities/ve_3.jpg
+볼리비아,1,Santa Cruz de la Sierra,-17.789200,-63.197500,7879.19,assets/cities/bo_1.jpg
+볼리비아,2,La Paz,-16.495800,-68.133300,7168.76,assets/cities/bo_2.jpg
+볼리비아,3,Santa Cruz,-17.800000,-63.183300,4669.18,assets/cities/bo_3.jpg
+브라질,1,São Paulo,-23.550000,-46.633300,57715.00,assets/cities/br_1.jpg
+브라질,2,Rio de Janeiro,-22.911100,-43.205600,31480.00,assets/cities/br_2.jpg
+브라질,3,Belo Horizonte,-19.916700,-43.933300,13320.00,assets/cities/br_3.jpg
+수리남,1,Paramaribo,5.852200,-55.203900,559.39,assets/cities/sr_1.jpg
+아르헨티나,1,Buenos Aires,-34.603300,-58.381700,15372.00,assets/cities/ar_1.jpg
+아르헨티나,2,Córdoba,-31.416700,-64.183300,5266.84,assets/cities/ar_2.jpg
+아르헨티나,3,Rosario,-32.957500,-60.639400,3190.00,assets/cities/ar_3.jpg
+에콰도르,1,Guayaquil,-2.190000,-79.887500,6625.72,assets/cities/ec_1.jpg
+에콰도르,2,Quito,-0.220000,-78.512500,4408.19,assets/cities/ec_2.jpg
+에콰도르,3,Cuenca,-2.897400,-79.004500,903.81,assets/cities/ec_3.jpg
+우루과이,1,Montevideo,-34.883600,-56.181900,4298.63,assets/cities/uy_1.jpg
+우루과이,2,Maldonado,-34.900000,-54.950000,337.54,assets/cities/uy_2.jpg
+우루과이,3,Salto,-31.383300,-57.950000,312.19,assets/cities/uy_3.jpg
+칠레,1,Santiago,-33.437200,-70.650600,17927.50,assets/cities/cl_1.jpg
+칠레,2,Concepción,-36.828200,-73.051400,1799.86,assets/cities/cl_2.jpg
+칠레,3,Puente Alto,-33.616700,-70.566700,1434.84,assets/cities/cl_3.jpg
+콜롬비아,1,Bogotá,4.711100,-74.072200,19920.24,assets/cities/co_1.jpg
+콜롬비아,2,Medellín,6.230800,-75.590600,6323.51,assets/cities/co_2.jpg
+콜롬비아,3,Cali,3.420600,-76.522200,6178.69,assets/cities/co_3.jpg
+파라과이,1,Asunción,-25.300000,-57.633300,1193.37,assets/cities/py_1.jpg
+파라과이,2,Ciudad del Este,-25.516700,-54.616700,772.46,assets/cities/py_2.jpg
+파라과이,3,San Lorenzo,-25.340000,-57.520000,719.94,assets/cities/py_3.jpg
+페루,1,Lima,-12.060000,-77.037500,25800.00,assets/cities/pe_1.jpg
+페루,2,Arequipa,-16.400000,-71.533300,2520.72,assets/cities/pe_2.jpg
+페루,3,Trujillo,-8.112000,-79.028800,2337.87,assets/cities/pe_3.jpg
+나오에로,1,야렌,-0.547700,166.920900,0.00,assets/cities/nr_1.jpg
+뉴질랜드,1,Auckland,-36.840600,174.740000,3365.23,assets/cities/nz_1.jpg
+뉴질랜드,2,Christchurch,-43.531000,172.636500,958.00,assets/cities/nz_2.jpg
+뉴질랜드,3,Manukau City,-37.000000,174.885000,939.00,assets/cities/nz_3.jpg
+마셜제도,1,마주로,7.089700,171.380300,0.00,assets/cities/mh_1.jpg
+미크로네시아연방,1,팔리키르,6.924800,158.161100,0.00,assets/cities/fm_1.jpg
+바누아투,1,포트빌라,-17.736500,168.313700,0.00,assets/cities/vu_1.jpg
+사모아,1,아피아,-13.833300,-171.766700,0.00,assets/cities/ws_1.jpg
+솔로몬제도,1,호니아라,-9.433300,159.950000,0.00,assets/cities/sb_1.jpg
+키리바시,1,남타라와,1.329200,172.976900,0.00,assets/cities/ki_1.jpg
+통가,1,누쿠알로파,-21.136800,-175.201100,0.00,assets/cities/to_1.jpg
+투발루,1,푸나푸티,-8.521100,179.196200,0.00,assets/cities/tv_1.jpg
+파푸아뉴기니,1,Port Moresby,-9.478900,147.149400,1750.00,assets/cities/pg_1.jpg
+파푸아뉴기니,2,Lae,-6.730300,147.000800,482.50,assets/cities/pg_2.jpg
+팔라우,1,응게룰무드,7.500400,134.624300,0.00,assets/cities/pw_1.jpg
+피지,1,Suva,-18.141600,178.441900,464.78,assets/cities/fj_1.jpg
+호주,1,Melbourne,-37.814200,144.963100,12577.99,assets/cities/au_1.jpg
+호주,2,Sydney,-33.867800,151.210000,12101.50,assets/cities/au_2.jpg
+호주,3,Brisbane,-27.467800,153.028100,5900.60,assets/cities/au_3.jpg
+코소보,1,Prizren,42.212800,20.739200,550.32,assets/cities/xk_1.jpg
+코소보,2,Pristina,42.663300,21.162200,497.24,assets/cities/xk_2.jpg
+코소보,3,Ferizaj,42.366700,21.166700,271.52,assets/cities/xk_3.jpg
+사하라아랍민주공화국,1,엘 아이운,27.153600,-13.203300,0.00,assets/cities/eh_1.jpg
+대만,1,Taichung,24.143900,120.679400,7584.71,assets/cities/tw_1.png
+대만,2,Kaohsiung,22.615000,120.297500,6834.91,assets/cities/tw_2.jpg
+대만,3,Taipei,25.037500,121.562500,6507.88,assets/cities/tw_3.jpg
+압하지야,1,수후미,43.001500,41.023400,0.00,assets/cities/ab_1.jpg
+남오세티야,1,츠힌발리,42.227000,43.968600,0.00,assets/cities/os_1.jpg
+트란스니스트리아,1,티라스폴,46.840300,29.643300,0.00,assets/cities/pmr_1.jpg
+소말릴란드,1,하르게이사,9.560000,44.065000,0.00,assets/cities/somaliland_1.jpg
+북키프로스,1,레프코샤,35.185600,33.382300,0.00,assets/cities/ncyp_1.jpg
+한국,1,Seoul,37.560000,126.990000,16461.00,assets/cities/kr_1.jpg
+한국,2,Busan,35.180000,129.075000,8633.00,assets/cities/kr_2.jpg
+한국,3,Incheon,37.483300,126.633300,7340.29,assets/cities/kr_3.jpg
+오스트레일리아,1,Melbourne,-37.814200,144.963100,12577.99,assets/cities/au_1.jpg
+오스트레일리아,2,Sydney,-33.867800,151.210000,12101.50,assets/cities/au_2.jpg
+오스트레일리아,3,Brisbane,-27.467800,153.028100,5900.60,assets/cities/au_3.jpg
+보스니아,1,Sarajevo,43.856400,18.413100,1049.89,assets/cities/ba_1.jpg
+보스니아,2,Banja Luka,44.772500,17.192500,462.61,assets/cities/ba_2.jpg
+보스니아,3,Bijeljina,44.756900,19.216100,286.66,assets/cities/ba_3.jpg
+UAE,1,Dubai,25.263100,55.297200,8328.55,assets/cities/ae_1.jpg
+UAE,2,Abu Dhabi,24.466700,54.366700,3707.50,assets/cities/ae_2.jpg
+UAE,3,Sharjah,25.357500,55.390800,3119.37,assets/cities/ae_3.jpg

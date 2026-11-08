@@ -1,0 +1,27 @@
+City images — sources (copyright-safe)
+======================================
+
+For the team report, cite these collection rounds:
+
+1) Round 1 — Wikipedia REST thumbnails
+   https://en.wikipedia.org/api/rest_v1/page/summary/
+   Small page lead images linked from English Wikipedia.
+
+2) Round 2 — Wikimedia Commons search thumbnails
+   https://commons.wikimedia.org/
+   File search + 320px thumbnails.
+
+3) Round 3 — Openverse (Creative Commons)
+   https://api.openverse.org/
+   Filtered to commercial + modification licenses (e.g. CC BY / BY-SA / CC0).
+
+Also used for city ranking seed (not image copyright):
+  - worldcities population list (Grafana demo CSV / SimpleMaps-derived)
+  - Wikipedia list of cities proper by population density
+    https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density
+
+Notes:
+  - Images are stored locally under assets/cities/ as small JPEG/PNG.
+  - Individual files inherit their upstream license (Wikipedia/Commons/Openverse).
+  - Prefer attribution to Wikimedia / Openverse when redistributing outside class use.
+  - Coverage: 487/487 city rows have a local image file.
