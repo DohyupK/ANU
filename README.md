@@ -1,4 +1,4 @@
-### LMS의 그룹활동 팀 내용에도 발표자료를 제출하였습니다.
+https://github.com/user-attachments/assets/bfc36234-ff4a-4007-a5fa-6293c50ce8ba
 
 # 국가 검색 지도 시스템
 
